@@ -30,7 +30,7 @@ Get a ROI on dashcam/bodycam investment.
 
 ## Project Structure
 Our project is made up of the below repos for the various services we have built for our platform.    
-- **speech-detection:** NLP solutions to take audio input and return offensive/hate speech detected in the videos.
+- **[speech-detection](https://github.com/Equitable-Surveillance/speech-detection):** NLP solutions to take audio input and return offensive/hate speech detected in the videos.
 - **licenseplate_detection:**  CV solution to detect license plate and extract text information from the videos.
 - **gun_detection:** CV solution for situational gun detection from the videos.
 - **web_scraping_images:** Webscraping tool to extract videos of guns to support building situational gun detection model.
